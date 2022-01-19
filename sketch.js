@@ -12,6 +12,7 @@ function setup(){
   menino=createSprite(180,300);
   chao.addImage(chaoimg)
   menino.addAnimation("menino",meninoimg)
+  menino.scale=0.1
   //crie sprite aqui
 }
 
